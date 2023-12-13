@@ -8,5 +8,7 @@ namespace PN.models
 {
     class Student
     {
+        public int MSSV { get; set; }
+      
     }
 }
